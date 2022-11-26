@@ -1,0 +1,4 @@
+Realizar documentacion de los procesos de la empresa.
+
+1. Archivo de texto plano
+2. Visualizar los datos en una tabla
